@@ -16,13 +16,14 @@
 # Fortran module files
 *.mod
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
 # Executables
 *.exe
 *.out
 *.app
+/Debug
+/Game/Debug
+/Engine/Debug
+
+# IDE files
+*ncb
+*user

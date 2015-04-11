@@ -1,5 +1,3 @@
-#version 330 core
-
 #ifdef VERTEX
 layout(location = VERTEX_POSITION) in vec2 position;
 #endif //VERTEX

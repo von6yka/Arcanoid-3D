@@ -1,5 +1,3 @@
-#version 330 core
-
 #ifdef VERTEX
 layout(location = VERTEX_POSITION) in vec3 position;
 uniform mat4 modelViewProjection;
